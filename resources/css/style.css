@@ -1,7 +1,6 @@
 html {
   font-family: Helvetica;
   text-align: center;
-
 }
 
 .top {
@@ -16,6 +15,7 @@ h1 {
 
 .menu {
   font-size: 18px;
+  color: white;
 }
 
 h3 {
